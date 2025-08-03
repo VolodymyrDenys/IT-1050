@@ -1,0 +1,15 @@
+/workspaces/IT-1050/Lab5/bin/Debug/net8.0/Lab5
+/workspaces/IT-1050/Lab5/bin/Debug/net8.0/Lab5.deps.json
+/workspaces/IT-1050/Lab5/bin/Debug/net8.0/Lab5.runtimeconfig.json
+/workspaces/IT-1050/Lab5/bin/Debug/net8.0/Lab5.dll
+/workspaces/IT-1050/Lab5/bin/Debug/net8.0/Lab5.pdb
+/workspaces/IT-1050/Lab5/obj/Debug/net8.0/Lab5.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/IT-1050/Lab5/obj/Debug/net8.0/Lab5.AssemblyInfoInputs.cache
+/workspaces/IT-1050/Lab5/obj/Debug/net8.0/Lab5.AssemblyInfo.cs
+/workspaces/IT-1050/Lab5/obj/Debug/net8.0/Lab5.csproj.CoreCompileInputs.cache
+/workspaces/IT-1050/Lab5/obj/Debug/net8.0/Lab5.sourcelink.json
+/workspaces/IT-1050/Lab5/obj/Debug/net8.0/Lab5.dll
+/workspaces/IT-1050/Lab5/obj/Debug/net8.0/refint/Lab5.dll
+/workspaces/IT-1050/Lab5/obj/Debug/net8.0/Lab5.pdb
+/workspaces/IT-1050/Lab5/obj/Debug/net8.0/Lab5.genruntimeconfig.cache
+/workspaces/IT-1050/Lab5/obj/Debug/net8.0/ref/Lab5.dll
